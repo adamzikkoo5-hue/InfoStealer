@@ -6,9 +6,9 @@ import socket
 import platform
 import uuid
 
-sender = 'youremail@gmail.com'
-reciever = 'email@gmail.com'
-password = 'password'
+sender = 'adamzikkoo5@gmail.com'
+reciever = 'adamzikkoo8@gmail.com'
+password = 'adam123321'
 # Dont change this
 marker = "AUNIQUEMARKER"
 
